@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Favour-37
+- 👀 I’m interested on growing amongst the vast programming field 
+- 🌱 I’m currently learning JavaScripta as one of my first computer languages 
+- 💞️ I’m looking to collaborate with programmers who will challenge me and who I can learn from 
+- 📫 I can be reached via my email adress(barakafavour37@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am totally excited on this new journey am travelling
+- 
