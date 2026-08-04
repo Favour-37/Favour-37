@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Awuor Favour Baraka
+# Hi there! 👋 I'm Favour Baraka
 
 ### Front-End Developer • Building Modern Web Experiences
 
