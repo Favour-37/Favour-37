@@ -91,6 +91,7 @@ https://favour-37.github.io/Dominion-Outreach/
 ## 📫 Connect With Me
 
 📧 **Email:** barakafavour37@gmail.com
+sph3231112024@students.uonbi.ac.ke
 
 GitHub: https://github.com/Favour-37
 
