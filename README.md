@@ -12,7 +12,7 @@ I'm continuously growing into a full-stack software developer, with the goal of 
 
 ## 🎓 About Me
 
-- 🎓 Bachelor of Science in Microprocessor Technology & Instrumentation
+- 🎓 Student at the University of Nairobi undertaking Bachelor of Science in Microprocessor Technology & Instrumentation
 - 💻 Front-End Developer passionate about clean, responsive and user-focused web experiences
 - 🌍 Based in Nairobi, Kenya
 - 🚀 Working towards becoming a Full-Stack Software Engineer
